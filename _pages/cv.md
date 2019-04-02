@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Find my CV [here](../SFOLSON_CV.pdf)
+Find my CV [here](../SFOLSON_CV.pdf).
