@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shayla F. Olson / Personal Website"
-title_separator          : "Shayla F. Olson"
+title                    : "Shayla F. Olson"
+title_separator          : "-"
 name                     : &name "Shayla F. Olson"
 description              : &description "Ph.D. Student at Michigan State University"
 url                      : https://shaylafolson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "bozdechs[at]msu.edu"
+    email                : "bozdechs@msu.edu"
   generatedFields:
     date:
       type               : "date"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shayla F. Olson"
   avatar           : "profile.png"
-  bio              : "Hello! My name is Shayla Olson, and I'm a Ph.D. student in the Department of Political Science at Michigan State University. I study American political behavior, public opinion, and research methods. My research interests lie at the intersection of religion and race and ethnicity politics, with broad interests in identity politics and rhetoric."
+  bio              : ""
   location         : "Michigan"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : bozdechs[at]msu.edu
+  email            : "bozdechs@msu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
