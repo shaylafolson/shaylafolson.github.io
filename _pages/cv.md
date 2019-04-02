@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[embed]shaylafolson.github.io/SFOLSON_CV.pdf[embed]
+Find my CV [here](./SFOLSON_CV.pdf)
