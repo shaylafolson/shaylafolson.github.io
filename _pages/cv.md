@@ -7,3 +7,4 @@ redirect_from:
   - /resume
 ---
 
+/SFOlson_CV.pdf
