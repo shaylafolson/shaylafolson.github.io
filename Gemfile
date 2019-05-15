@@ -17,6 +17,7 @@ gem "github-pages", group: :jekyll_plugins
 # gem "jekyll"
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem "alembic-jekyll-theme"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
