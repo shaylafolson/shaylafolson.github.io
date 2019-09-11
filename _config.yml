@@ -42,7 +42,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "bozdechs[at]msu.edu"
+    email                : "sfolson[at]msu.edu"
   generatedFields:
     date:
       type               : "date"
@@ -90,7 +90,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    :
-  email            : bozdechs[at]msu.edu
+  email            : sfolson[at]msu.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
