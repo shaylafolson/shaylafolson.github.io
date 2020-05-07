@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Shayla F. Olson"
 title_separator          : "-"
 name                     : &name "Shayla F. Olson"
-description              : &description "Ph.D. Student, Michigan State University"
+description              : &description "Ph.D. Student, University of Michigan"
 url                      : https://shaylafolson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shaylafolson.github.io"
@@ -42,7 +42,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "sfolson[at]msu.edu"
+    email                : "sfolson[at]umich.edu"
   generatedFields:
     date:
       type               : "date"
@@ -90,7 +90,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    :
-  email            : sfolson[at]msu.edu
+  email            : sfolson[at]umich.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
